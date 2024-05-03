@@ -1,5 +1,14 @@
 {
     "name": "property-search",
     "version": "1.0.0",
-    "author": "Danielle LeBrun <forloopsake@gmail.com>"
-  }
+    "author": "Danielle LeBrun <forloopsake@gmail.com>",
+    "main": "server.js",
+    "dependencies": {
+        "bootstrap": "^5.3.3",
+        "@apollo/server": "^4.9.5",
+        "@emotion/react": "^11.11.1",
+        "apollo-server-express": "^3.13.0",
+        "framer-motion": "^10.16.15",
+        "react-router-dom": "^6.20.1"
+    }
+}
